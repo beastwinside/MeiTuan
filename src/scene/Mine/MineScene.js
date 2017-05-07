@@ -8,7 +8,8 @@
 
 //import liraries
 import React, { Component } from 'react';
-import { View, Text, StyleSheet, StatusBar, Image, TouchableOpacity, ScrollView, RefreshControl } from 'react-native';
+import { View, Text, StyleSheet, StatusBar,
+ Image, TouchableOpacity, ScrollView, RefreshControl } from 'react-native';
 
 import { Heading1, Heading2, Paragraph } from '../../widget/Text'
 import screen from '../../common/screen'

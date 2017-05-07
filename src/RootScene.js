@@ -9,6 +9,7 @@
 //import liraries
 import React, { Component } from 'react';
 import { View, Text, StyleSheet, Platform, StatusBar } from 'react-native';
+
 import { Router, Scene, Actions, Schema } from 'react-native-router-flux';
 
 import color from './widget/color'
